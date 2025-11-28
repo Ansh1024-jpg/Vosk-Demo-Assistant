@@ -1,0 +1,7 @@
+vosk
+pyaudio
+fastapi
+uvicorn
+websockets
+requests
+tqdm
